@@ -1,59 +1,28 @@
-## Introduction
+Repeating a large group of blocks makes our code untidy.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+If you need to re-use code, it is sometimes better to put it in a function and then 'call' the function to run. 
 
-### What you will make
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+A <span style="color: #0faeb0">function</span> is a group of blocks that you can create and name. You can run those blocks by 'calling' the name of the function. Another word for a function is a <span style="color: #0faeb0">subprogram</span>, because it can be called to run from the main program.
+</p>
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+--- task ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Click the `Advanced` menu to reveal the Functions menu.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Click the Functions menu and then click `Make a Function`.
 
-+ A computer or tablet capable of running Scratch 3
+Name the function.
 
-### Software
+![Animation showing how to make a function.](images/make-a-function.gif)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- /task ---
 
-### Downloads
+The code in your function will not run until you 'call' it.
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+--- task ---
 
---- /collapse ---
+From the Advanced > Functions menu, drag out the `call` block for your function.
 
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+--- /task ---
