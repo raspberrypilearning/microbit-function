@@ -7,7 +7,7 @@ If you need to re-use code, it is sometimes better to put it in a function and t
 A <span style="color: #0faeb0">function</span> is a group of blocks that you can create and name. You can run those blocks by 'calling' the name of the function. Another word for a function is a <span style="color: #0faeb0">subprogram</span>, because it can be called to run from the main program.
 </p>
 
---- task ---
+## To create a function
 
 Click the `Advanced` menu to reveal the Functions menu.
 
@@ -17,12 +17,8 @@ Name the function.
 
 ![Animation showing how to make a function.](images/make-a-function.gif)
 
---- /task ---
-
 The code in your function will not run until you 'call' it.
 
---- task ---
+## To call a function
 
 From the Advanced > Functions menu, drag out the `call` block for your function.
-
---- /task ---
