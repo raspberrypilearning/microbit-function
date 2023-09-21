@@ -9,7 +9,9 @@ A <span style="color: #0faeb0">function</span> is a group of blocks that you can
 
 ## To create a function
 
-Click the `Advanced` menu to reveal the Functions menu.
+You can find function blocks in the Advanced menu in your Toolbox.
+
+<img src="images/function-menu.png" alt="The Advanced menu, with the 'Functions' sub-menu highlighted."  width="250"/>
 
 Click the Functions menu and then click `Make a Function`.
 
