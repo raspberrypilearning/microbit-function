@@ -9,11 +9,11 @@ A <span style="color: #0faeb0">function</span> is a group of blocks that you can
 
 ## To create a function
 
-You can find function blocks in the Advanced menu in your Toolbox.
+You can find `Functions`{:class='microbitfunctions'} blocks in the Advanced menu in your Toolbox.
 
 <img src="images/function-menu.png" alt="The Advanced menu, with the 'Functions' sub-menu highlighted."  width="250"/>
 
-Click the Functions menu and then click `Make a Function`.
+Click the `Functions`{:class='microbitfunctions'} menu and then click `Make a Function`.
 
 Name the function.
 
@@ -23,4 +23,4 @@ The code in your function will not run until you 'call' it.
 
 ## To call a function
 
-From the Advanced > Functions menu, drag out the `call` block for your function.
+From the `Functions`{:class='microbitfunctions'} menu, drag out the `call`{:class='microbitfunctions'} block for your function.
