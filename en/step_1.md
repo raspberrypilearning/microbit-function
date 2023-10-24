@@ -15,7 +15,7 @@ You can find the `Functions`{:class='microbitfunctions'} blocks in the Advanced 
 
 Click the `Functions`{:class='microbitfunctions'} menu and then click `Make a Function`.
 
-Name the function.
+Name the function and click **Done**. You can now add code blocks to your function.
 
 ![Animation showing how to make a function.](images/make-a-function.gif)
 
