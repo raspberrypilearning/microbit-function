@@ -1,27 +1,27 @@
-Repeating a large group of blocks makes our code untidy.
+Het herhalen van een grote groep blokken maakt onze code rommelig.
 
-If you need to re-use code, it is better to put it in a function and then 'call' the function to run.
+Als je code opnieuw moet gebruiken, is het soms beter om deze in een functie te zetten en vervolgens de functie 'aan te roepen' om te draaien.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-A <span style="color: #0faeb0">function</span> is a group of blocks that you have created and named. You can run those blocks by 'calling' the name of the function. Another word for a function is a <span style="color: #0faeb0">subprogram</span>, because it can be called to run from the main program.
+Een <span style="color: #0faeb0">-functie</span> is een groep blokken die je kunt maken en een naam kunt geven. Je kunt deze blokken uitvoeren door de naam van de functie 'aan te roepen'. Een ander woord voor een functie is een <span style="color: #0faeb0">subprogramma</span>, omdat het kan worden uitgevoerd vanuit het hoofdprogramma.
 
 </p>
 
-## To create a function
+## Maak een functie
 
-You can find the `Functions`{:class='microbitfunctions'} blocks in the Advanced menu in your Toolbox.
+Je kunt de `Functies`{:class='microbitfunctions'} blokken vinden in het geavanceerde menu in je Toolbox.
 
 <img src="images/function-menu.png" alt="The Advanced menu, with the 'Functions' sub-menu highlighted."  width="250"/>
 
-Click the `Functions`{:class='microbitfunctions'} menu and then click `Make a Function`.
+Klik op de `Functies`{:class='microbitfunctions'} menu en klik vervolgens op `Maak een functie`.
 
-Name the function and click **Done**. You can now add code blocks to your function.
+Geef de functie een naam en klik op **Klaar**. Je kunt nu codeblokken toevoegen aan je functie.
 
-![Animation showing how to make a function.](images/make-a-function.gif)
+![Animatie die laat zien hoe je een functie maakt.](images/make-a-function.gif)
 
-The code in your function will not run until you 'call' it.
+De code in je functie wordt pas uitgevoerd als je deze 'aanroept'.
 
-## To call a function
+## Roep een functie aan
 
-From the `Functions`{:class='microbitfunctions'} menu, drag out the `call`{:class='microbitfunctions'} block for your function and place it where you want your function to run.
+Vanuit het `Functies`{:class='microbitfunctions'} menu sleep je het `aanroep`{:class='microbitfunctions'} blok voor je functie en plaats je het daar waar je wilt dat je functie werkt.
