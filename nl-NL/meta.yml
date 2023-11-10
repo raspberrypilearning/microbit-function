@@ -1,10 +1,10 @@
-title: Create and call a function
+title: Een functie maken en aanroepen
 hero_image: images/banner.png
-description: How to create and call a function in MakeCode
+description: Hoe je een functie in MakeCode maakt en aanroept
 version: 4
 listed: false
 copyedit: false
 last_tested: "2023-09-19"
 steps:
   - 
-    title: Introduction
+    title: Inleiding
