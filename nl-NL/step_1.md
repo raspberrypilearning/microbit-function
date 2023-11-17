@@ -1,16 +1,16 @@
 Het herhalen van een grote groep blokken maakt onze code rommelig.
 
-Als je code opnieuw moet gebruiken, is het soms beter om deze in een functie te zetten en vervolgens de functie 'aan te roepen' om te draaien.
+Als je code opnieuw moet gebruiken, is het soms beter om deze in een functie te zetten en vervolgens de functie 'aan te roepen' om deze uit te voeren.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-Een <span style="color: #0faeb0">-functie</span> is een groep blokken die je kunt maken en een naam kunt geven. Je kunt deze blokken uitvoeren door de naam van de functie 'aan te roepen'. Een ander woord voor een functie is een <span style="color: #0faeb0">subprogramma</span>, omdat het kan worden uitgevoerd vanuit het hoofdprogramma.
+Een <span style="color: #0faeb0">functie</span> is een groep blokken die je kunt maken en een naam kunt geven. Je kunt deze blokken uitvoeren door de naam van de functie 'aan te roepen'. Een ander woord voor een functie is een <span style="color: #0faeb0">subprogramma</span>, omdat het kan worden uitgevoerd vanuit het hoofdprogramma.
 
 </p>
 
 ## Maak een functie
 
-Je kunt de `Functies`{:class='microbitfunctions'} blokken vinden in het geavanceerde menu in je Toolbox.
+Je kunt de `Functies`{:class='microbitfunctions'} blokken vinden in het Geavanceerd menu in je Toolbox.
 
 <img src="images/function-menu.png" alt="The Advanced menu, with the 'Functions' sub-menu highlighted."  width="250"/>
 
